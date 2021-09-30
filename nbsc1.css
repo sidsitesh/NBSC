@@ -1,0 +1,103 @@
+
+body{
+    background:lightgrey;
+    color:rgb(2, 54, 2);
+    }
+.image{
+    padding-right:250;
+      }
+.heading{
+    padding-left:190;
+    padding-top: 50;
+    }
+
+.passage{
+    margin-left: 200;
+    width: 280;
+    display: inline-block;
+    position: relative;
+    bottom: 18px;
+        }
+.passages{
+    margin-left: 80;
+    width: 280;
+    display: inline-block;
+        }
+
+.sound{
+    padding-left:50;
+    padding-top:200;
+    padding-bottom: 100;
+    }
+.vision{
+    font-size:50;
+    padding-left:120;
+    height: 50;
+    width: 50;
+    }
+.paragraph{
+    padding-left:120;
+    padding-right:140 ;
+    font-size:large;
+    padding-top: 40;
+    }
+.paragraphs{
+    padding-left:120;
+    padding-right:140;
+    padding-top:30;
+    font-size:large;
+    }
+.charter{
+    padding-left: 120;
+    padding-top: 200;
+    font-size: x-large;
+    
+    }
+.sector{
+    padding-left: 120;
+    font-size:large;
+    padding-right:800;
+    }
+.date{
+    padding-left:120;
+    padding-top:20;
+    font-size: small;
+    padding-bottom:20;
+    }
+.education{
+   
+    width: 500px;
+    padding: 20px;
+    margin-left:120px;
+    position: relative;
+    background:lemonchiffon;
+    }
+.farmer{
+    margin-top:30;
+    width: 500px;
+    padding: 20px;
+    margin-left:120px;
+    background:lemonchiffon;
+    }
+
+.covigency{
+    margin-bottom:400;
+    padding: 20px;
+    width: 400px;
+    height: 400px;
+    background:lemonchiffon;
+    margin-left:120px;
+margin-top:30;
+    }
+    
+
+
+
+
+
+
+
+    
+    
+
+    
